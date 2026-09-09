@@ -19,6 +19,7 @@ const segmentLabelMap = {
   "job-applications": "jobApplications",
   "user-subscription": "subscription",
   "refer-and-earn": "referAndEarn",
+  "my-promotions": "promotionsAnalytics",
 };
 
 const ProfileLayout = ({ children }) => {
